@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background-color:#0000CD;}
+ img{
+    width: 500px;
+    height: 500px; 
+    border-style:groove;
+    border-radius:20px;
+    border-color:#0000CD;
+ }
+
+p{
+    font-size:30px;
+    color:#0000CD;
+    font-family: Arial, Helvetica, sans-serif;}
+    a{
+        font-size: medium;
+        color:#0000CD;
+        font-family: 'Franklin Gothic Medium',  'Arial Narrow', Arial, sans-serif; 
+    }
+    iframe{
+        border-radius: initial;
+        border-style: double;
+        border-width: thick;
+        border-color:#0000CD;
+    }
